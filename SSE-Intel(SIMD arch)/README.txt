@@ -1,0 +1,3 @@
+3D models processing - basics
+Using SSE in Intel processors
+There are lot of place for improvment: prefetching, better utilization of registers, better memory alignment and so on...
